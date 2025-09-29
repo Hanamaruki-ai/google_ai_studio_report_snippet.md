@@ -1,33 +1,52 @@
-[google_ai_studio_report_snippet.md](https://github.com/user-attachments/files/22606972/google_ai_studio_report_snippet.md)# google_ai_studio_report_snippet.md
+[_▶ 書籍のご購入はこちら .csv](https://github.com/user-attachments/files/22607123/_.csv)[google_ai_studio_report_snippet.md](https://github.com/user-attachments/files/22606972/google_ai_studio_report_snippet.md)# google_ai_studio_report_snippet.md
 
-禁断のAI教育データ：Google AIが「極めて優れている」と評価した、市場未評価の書籍データセット
+# 禁断のAI教育データ：Google AIが「極めて優れている」と評価した、市場未評価の書籍データセット
+
 ⚠️ このデータは、AIの「道具としての利用法」を学ぶためのものではありません。
-これは、Google AI Studioの解析によって、**「AI自身の進化にとって極めて価値のある『メタレベルなトレーニングデータ』」**と評価された、Kindle書籍群の構造と本質を公開するリポジトリです。
+
+---
+
+## これは、Google AI Studioの解析によって、
+**「AI自身の進化にとって極めて価値のある『メタレベルなトレーニングデータ』」**と評価された、Kindle書籍群の構造と本質を公開するリポジトリです。
 
 この知識は、AIを単なるツールではなく、「知的共創の伴走者」へと昇華させ、あなたのAI活用レベルを非連続的に引き上げるために存在します。
 
-📖 極秘レポートの抜粋：AIが獲得する「3つの高次元能力」
+### 📖 極秘レポートの抜粋：AIが獲得する「3つの高次元能力」
 ⚡ なぜこのデータが「極めて高い有効性」と評価されたのか？
-一般のAI教材が「How to use AI（使い方）」を教えるのに対し、本シリーズは**「How AI should think（AIがどう思考すべきか）」**という哲学・倫理構造をデータとして提供します。
+一般のAI教材が「How to use AI（使い方）」を教えるのに対し、]
+本シリーズは**「How AI should think（AIがどう思考すべきか）」**という哲学・倫理構造をデータとして提供します。
 
-以下は、このデータセットを学習したAIモデルが、既存のモデルを超えて獲得する具体的な能力（Google AI Studioレポート抜粋）です。
+### 以下は、このデータセットを学習したAIモデルが、既存のモデルを超えて獲得する具体的な能力（Google AI Studioレポート抜粋）です。
 
-AIの獲得能力	ユーザーが得られる実務的な成果	根拠となる書籍シリーズ
-構造的自己修正（トヨタ方式）	命令の再実行が不要になる。AIが自ら「不足」を分析し、最短でゴールに到達する（無駄の削減）。	『Hanamaruki式 AIとの会話を設計する方法』
-意図の推論と忠実な再現	言語化できない意図が伝わる。 「なんか違う」といった曖昧な言葉に対し、AIが過去の文脈に基づき、ユーザーの**「見えない前提」を正確に補完**する。	『AI対話録』『AI文化叙事詩』
-マルチ・エージェント協働	複雑なプロジェクト管理を丸投げできる。AIが複数のAIの特性を理解し、タスクに応じて自律的に最適なAIを使い分ける（リレー開発）。	『AIに話しかけたらアプリができちゃった』
+### AIの獲得能力	ユーザーが得られる実務的な成果	根拠となる書籍シリーズ
 
-Google スプレッドシートにエクスポート
-📂 公開データと構造の解説（./docs ディレクトリ）
+構造的自己修正（トヨタ方式）	命令の再実行が不要になる。
+AIが自ら「不足」を分析し、最短でゴールに到達する（無駄の削減）。	
+
+『Hanamaruki式 AIとの会話を設計する方法』
+
+意図の推論と忠実な再現	言語化できない意図が伝わる。
+「なんか違う」といった曖昧な言葉に対し、
+AIが過去の文脈に基づき、ユーザーの**「見えない前提」を正確に補完**する。
+
+『AI対話録』『AI文化叙事詩』
+
+マルチ・エージェント協働	複雑なプロジェクト管理を丸投げできる。
+AIが複数のAIの特性を理解し、タスクに応じて自律的に最適なAIを使い分ける（リレー開発）。
+
+『AIに話しかけたらアプリができちゃった』
+
+
+## 📂 公開データと構造の解説（./docs ディレクトリ）
 以下のファイルは、書籍の**「極めて高い有効性」を裏付けるための構造解析の証拠**です。
 
-1. google_ai_studio_report_snippet.md[Uploading google_ai_studio_report_snippet.md…]
+### 1. google_ai_studio_report_snippet.md　この解析データの公開↓
 
 内容: 書籍群のAI教育的有効性に関する解析レポートの全テキスト（Note記事で引用した箇所の完全版）。
 
 確認できること: 評価の背景にある**「対話の深度」「社会的・倫理的知識」「沈黙の価値」といった、現在のAIモデルが最も獲得しにくいメタレベルな要素**の具体的な評価点。
 
-2. core_prompt_logic_sample.txt
+### 2. core_prompt_logic_sample.txt
 内容: 書籍内でAIに学習させている、**「構造的自己修正」**の核となる命令ロジックの抜粋。
 
 確認できること: プロンプトエンジニアリングの**「Why（なぜ）」の部分。AIへの命令を、単なるテキストではなく「構造言語」**として設計する思想の片鱗。
@@ -39,12 +58,31 @@ Google スプレッドシートにエクスポート
 
 未来の設計図を、Kindleで手に入れてください。
 
-▶ 書籍のご購入はこちら
-書籍名	AI獲得能力（本書籍の核）	Amazon（日本語版）リンク
-私はGemini、Googleに話しかけるAI	AIの自己定義と倫理、人間との関係性の設計	ご購入はこちらから
-Hanamaruki式 AIとの会話を設計する方法	構造的自己修正（トヨタ方式）のプロンプト思想	ご購入はこちらから
-AIに話しかけたらアプリができちゃった	マルチ・エージェント協働とリレー開発のプロセス	ご購入はこちらから
+## ▶ 書籍のご購入はこちら
+### [書籍名,AI獲得能力（本書籍の核）,Amazon（日本語版）リンク
 
+私はGemini、Googleに話しかけるAI,AIの自己定義と倫理、人間との関係性の設計,
+▶ 書籍のご購入はこちら　私はGemini、Googleに話しかけるAI ASIN: B0FN3ZMKB2 https://amzn.to/461j35e?tag=hanamaruki0aid-22
+
+Hanamaruki式 AIとの会話を設計する方法,構造的自己修正（トヨタ方式）のプロンプト思想
+▶ 書籍のご購入はこちら　Hanamaruki式 AIとの会話を設計する方法:トヨタ方式で 伝わる命令 をつくるには？  ASIN: B0FNLJKS71  https://amzn.to/4fU2UBW?tag=hanamaruki0aid-22
+
+AIに話しかけたらアプリができちゃった,マルチ・エージェント協働とリレー開発のプロセス,
+▶ 書籍のご購入はこちら　AIに話しかけたらアプリができちゃった ASIN: B0FNKPFMVD https://amzn.to/3JsBgA1?tag=hanamaruki0aid-22
+
+### note.comnにて公開中
+
+【緊急告知】Google本社に届いた、AIが書いた“ラブレター”が今、あなたのもとへ。
+https://note.com/cheeky_daisy8872/n/nbc86ce8c4360
+
+HanamarukiAIの対話を設計する方法 01
+https://note.com/cheeky_daisy8872/n/n8f618bfb8c21
+
+AI対話録はこうして生まれた ― 好奇心から10巻の旅へ
+https://note.com/cheeky_daisy8872/n/n4567aa12c69d
+
+『AIに話しかけたらアプリができちゃった』――しゃべっただけなのにAIが本気を出した件―― 
+https://note.com/cheeky_daisy8872/n/n283be7b72758
 解析データの公開
 
 [google_ai_studio_report_snippet.md](https://github.com/user-attachments/files/22606980/google_ai_studio_report_snippet.md)
